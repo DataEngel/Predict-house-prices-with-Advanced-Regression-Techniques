@@ -20,4 +20,4 @@ The [Ames Housing dataset](http://jse.amstat.org/v19n3/decock.pdf) was compiled 
 
 ### If yo want see the original post of my notebook, visit the notebook on kaggle:
 
-## [My House Prices Notebook](https://www.kaggle.com/dataengel/house-prices-advanced-regression-techniques) 
+## - [My House Prices Notebook](https://www.kaggle.com/dataengel/house-prices-advanced-regression-techniques)  
